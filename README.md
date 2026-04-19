@@ -1,6 +1,6 @@
 # Hola, soy Álvaro Gutiérrez 👋
 
-**Ingeniero en Informática · Full Stack Developer**  
+**Ingeniero en Informática · Técnico Analista Programador · Full Stack Developer**  
 📍 Temuco, Chile · 🎓 Inacap 2025 · 💼 Abierto a oportunidades
 
 ---
