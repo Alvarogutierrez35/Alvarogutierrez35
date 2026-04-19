@@ -48,4 +48,4 @@ enfrentar nuevos desafíos técnicos.
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-gutierrez-b4a71624a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alvaro.gutierrez1291@gmail.com) alvaro.gutierrez1291@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alvaro.gutierrez1291@gmail.com)
