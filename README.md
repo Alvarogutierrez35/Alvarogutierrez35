@@ -41,7 +41,9 @@ enfrentar nuevos desafíos técnicos.
 
 ### 📌 Proyectos destacados
 
-> *Próximamente — en construcción* 🚧
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [Task Manager](https://github.com/Alvarogutierrez35/task-manager) | App para gestionar tareas con filtros y persistencia local | React · Vite · Tailwind |
 
 ---
 
