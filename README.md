@@ -44,6 +44,7 @@ enfrentar nuevos desafíos técnicos.
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [Task Manager](https://github.com/Alvarogutierrez35/task-manager) | App para gestionar tareas con filtros y persistencia local | React · Vite · Tailwind |
+| [Weather Dashboard](https://github.com/Alvarogutierrez35/weather-dashboard) | App para poder visualizar el clima de diferentes ciudades. | React · Vite · Tailwind · OpenWeatherMap API |
 
 ---
 
